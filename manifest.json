@@ -1,12 +1,12 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.0",
-  "description": "Version 1 of the Cosmoteer mod pack. Saved ships are copied in. Career saves stay on the Steam profile.",
-  "archive": "modpack-2026-1.0.0.zip",
+  "version": "1.0.1",
+  "description": "Adds Huge Crews and Huge Ships. Saved ships are copied in. Career saves stay on the Steam profile.",
+  "archive": "modpack-2026-1.0.1.zip",
   "parts": [
-    "modpack-2026-1.0.0.zip.000",
-    "modpack-2026-1.0.0.zip.001",
-    "modpack-2026-1.0.0.zip.002"
+    "modpack-2026-1.0.1.zip.000",
+    "modpack-2026-1.0.1.zip.001",
+    "modpack-2026-1.0.1.zip.002"
   ]
 }
