@@ -1,12 +1,12 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.1",
-  "description": "Adds Huge Crews and Huge Ships. Saved ships are copied in. Career saves stay on the Steam profile.",
-  "archive": "modpack-2026-1.0.1.zip",
+  "version": "1.0.2",
+  "description": "Adds ModPack Performance: collision checks on all cores and faster ship-wide power and heat networks, with identical simulation results, so 1.0.2 plays with 1.0.1. Saved ships are copied in. Career saves stay on the Steam profile.",
+  "archive": "modpack-2026-1.0.2.zip",
   "parts": [
-    "modpack-2026-1.0.1.zip.000",
-    "modpack-2026-1.0.1.zip.001",
-    "modpack-2026-1.0.1.zip.002"
+    "modpack-2026-1.0.2.zip.000",
+    "modpack-2026-1.0.2.zip.001",
+    "modpack-2026-1.0.2.zip.002"
   ]
 }
