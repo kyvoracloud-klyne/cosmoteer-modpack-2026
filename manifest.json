@@ -1,12 +1,12 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.4",
-  "description": "Halo reactors join Remote Power; large/SMAC MAC extenders are walkable like railguns. Keeps Contour Shields and ModPack Performance. Saved ships are copied in. Career saves stay on the Steam profile.",
-  "archive": "modpack-2026-1.0.4.zip",
+  "version": "1.0.5",
+  "description": "Cable Age Remote Power covers Huge Ships (2048 tiles). Halo reactors keep Remote Power; Covenant shields regain their energy look. Keeps Contour Shields and ModPack Performance. Saved ships are copied in. Career saves stay on the Steam profile.",
+  "archive": "modpack-2026-1.0.5.zip",
   "parts": [
-    "modpack-2026-1.0.4.zip.000",
-    "modpack-2026-1.0.4.zip.001",
-    "modpack-2026-1.0.4.zip.002"
+    "modpack-2026-1.0.5.zip.000",
+    "modpack-2026-1.0.5.zip.001",
+    "modpack-2026-1.0.5.zip.002"
   ]
 }
