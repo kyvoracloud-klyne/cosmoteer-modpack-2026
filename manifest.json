@@ -1,19 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.7",
-  "description": "Stops ship-designer hover OOM: Cable Age remote power 128 tiles; caps other extreme GridBuff distances; ModPack Performance 1.0.1 guards the network-port overlay. Keeps Contour Shields and Halo Remote Power.",
-  "archive": "modpack-2026-1.0.7.zip",
+  "version": "1.0.8",
+  "description": "Restores Cable Age remote power to 512 tiles so Huge Ship shields (SW Gigantic Interior, Core Shield) receive wireless power again. Keeps ModPack Performance overlay OOM guard; leaves non-power megagrid buffs capped.",
+  "archive": "modpack-2026-1.0.8.zip",
   "parts": [
-    "modpack-2026-1.0.7.zip.000",
-    "modpack-2026-1.0.7.zip.001",
-    "modpack-2026-1.0.7.zip.002"
+    "modpack-2026-1.0.8.zip.000",
+    "modpack-2026-1.0.8.zip.001",
+    "modpack-2026-1.0.8.zip.002"
   ],
-  "files": "files-1.0.7.json",
+  "files": "files-1.0.8.json",
   "deltas": [
     {
-      "from": "1.0.6",
-      "archive": "delta-1.0.6-to-1.0.7.zip"
+      "from": "1.0.7",
+      "archive": "delta-1.0.7-to-1.0.8.zip"
     }
   ]
 }
