@@ -1,12 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.5",
-  "description": "Cable Age Remote Power covers Huge Ships (2048 tiles). Halo reactors keep Remote Power; Covenant shields regain their energy look. Keeps Contour Shields and ModPack Performance. Saved ships are copied in. Career saves stay on the Steam profile.",
-  "archive": "modpack-2026-1.0.5.zip",
+  "version": "1.0.6",
+  "description": "Cable Age Remote Power capped at 512 tiles to stop blueprint overlay OOM on dense power nets. Keeps Contour Shields, Halo Remote Power, and ModPack Performance. Delta zip upgrades from 1.0.5 without a full re-download.",
+  "archive": "modpack-2026-1.0.6.zip",
   "parts": [
-    "modpack-2026-1.0.5.zip.000",
-    "modpack-2026-1.0.5.zip.001",
-    "modpack-2026-1.0.5.zip.002"
+    "modpack-2026-1.0.6.zip.000",
+    "modpack-2026-1.0.6.zip.001",
+    "modpack-2026-1.0.6.zip.002"
+  ],
+  "files": "files-1.0.6.json",
+  "deltas": [
+    {
+      "from": "1.0.5",
+      "archive": "delta-1.0.5-to-1.0.6.zip"
+    }
   ]
 }
