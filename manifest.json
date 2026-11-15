@@ -1,19 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.10",
-  "description": "ModPack Performance 1.0.2: fail-fast network-port overlay guard for large heat and power nets.",
-  "archive": "modpack-2026-1.0.10.zip",
+  "version": "1.0.11",
+  "description": "ModPack Performance 1.0.3: skip network-port overlay on blueprints with 2000+ parts, tighter BFS queue/time budget. Cable Age: 5x-batched SW reactor wireless links to cut ConvertResources on large fleets.",
+  "archive": "modpack-2026-1.0.11.zip",
   "parts": [
-    "modpack-2026-1.0.10.zip.000",
-    "modpack-2026-1.0.10.zip.001",
-    "modpack-2026-1.0.10.zip.002"
+    "modpack-2026-1.0.11.zip.000",
+    "modpack-2026-1.0.11.zip.001",
+    "modpack-2026-1.0.11.zip.002"
   ],
-  "files": "files-1.0.10.json",
+  "files": "files-1.0.11.json",
   "deltas": [
     {
-      "from": "1.0.9",
-      "archive": "delta-1.0.9-to-1.0.10.zip"
+      "from": "1.0.10",
+      "archive": "delta-1.0.10-to-1.0.11.zip"
     }
   ]
 }
