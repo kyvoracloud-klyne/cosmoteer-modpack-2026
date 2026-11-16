@@ -1,19 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.13",
-  "description": "Adds Not This Again: optional career economy with 50M starting credits and Fast/Smuggler-style reward multipliers.",
-  "archive": "modpack-2026-1.0.13.zip",
+  "version": "1.0.14",
+  "description": "Caps dedicated point-defense and flak weapon range at 350 m (vanilla PD/flak plus SDH, Heavy PDC, Giant Cannon 130 mm, ETTM, SW, Halo, Galactic Allegiance). Multiplies Bigger Deck Guns (Giant Cannon) shell Health by 5x so rounds survive PD better. Longer Weapon Range updated so it cannot restore PD to 1000 m.",
+  "archive": "modpack-2026-1.0.14.zip",
   "parts": [
-    "modpack-2026-1.0.13.zip.000",
-    "modpack-2026-1.0.13.zip.001",
-    "modpack-2026-1.0.13.zip.002"
+    "modpack-2026-1.0.14.zip.000",
+    "modpack-2026-1.0.14.zip.001",
+    "modpack-2026-1.0.14.zip.002"
   ],
-  "files": "files-1.0.13.json",
+  "files": "files-1.0.14.json",
   "deltas": [
     {
-      "from": "1.0.12",
-      "archive": "delta-1.0.12-to-1.0.13.zip"
+      "from": "1.0.13",
+      "archive": "delta-1.0.13-to-1.0.14.zip"
     }
   ]
 }
