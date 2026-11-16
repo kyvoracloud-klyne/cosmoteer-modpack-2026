@@ -1,19 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.12",
-  "description": "ModPack Performance 1.0.4: guard career CreateGame against empty faction/trade-ship FloatRouletteWheel (Star Wars ACD host-launch crash).",
-  "archive": "modpack-2026-1.0.12.zip",
+  "version": "1.0.13",
+  "description": "Adds Not This Again: optional career economy with 50M starting credits and Fast/Smuggler-style reward multipliers.",
+  "archive": "modpack-2026-1.0.13.zip",
   "parts": [
-    "modpack-2026-1.0.12.zip.000",
-    "modpack-2026-1.0.12.zip.001",
-    "modpack-2026-1.0.12.zip.002"
+    "modpack-2026-1.0.13.zip.000",
+    "modpack-2026-1.0.13.zip.001",
+    "modpack-2026-1.0.13.zip.002"
   ],
-  "files": "files-1.0.12.json",
+  "files": "files-1.0.13.json",
   "deltas": [
     {
-      "from": "1.0.11",
-      "archive": "delta-1.0.11-to-1.0.12.zip"
+      "from": "1.0.12",
+      "archive": "delta-1.0.12-to-1.0.13.zip"
     }
   ]
 }
