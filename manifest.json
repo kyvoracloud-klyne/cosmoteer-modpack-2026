@@ -1,19 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.16",
-  "description": "Hotfix: unique builtin ship IDs for the six Workshop ship collections so they no longer collide with vanilla/other mod ships (fixes Duplicate built-in ship ID Sentry crash from War Above All Heavens).",
-  "archive": "modpack-2026-1.0.16.zip",
+  "version": "1.0.17",
+  "description": "Galactic Allegiance missile silo fires base-game HE, EMP, thermal missiles, and mines. Nuclear missiles stay off this silo.",
+  "archive": "modpack-2026-1.0.17.zip",
   "parts": [
-    "modpack-2026-1.0.16.zip.000",
-    "modpack-2026-1.0.16.zip.001",
-    "modpack-2026-1.0.16.zip.002"
+    "modpack-2026-1.0.17.zip.000",
+    "modpack-2026-1.0.17.zip.001",
+    "modpack-2026-1.0.17.zip.002"
   ],
-  "files": "files-1.0.16.json",
+  "files": "files-1.0.17.json",
   "deltas": [
     {
-      "from": "1.0.15",
-      "archive": "delta-1.0.15-to-1.0.16.zip"
+      "from": "1.0.16",
+      "archive": "delta-1.0.16-to-1.0.17.zip"
     }
   ]
 }
