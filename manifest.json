@@ -1,19 +1,19 @@
 {
   "id": "modpack-2026",
   "name": "Mod Pack 2026",
-  "version": "1.0.14",
-  "description": "Caps dedicated point-defense and flak weapon range at 350 m (vanilla PD/flak plus SDH, Heavy PDC, Giant Cannon 130 mm, ETTM, SW, Halo, Galactic Allegiance). Multiplies Bigger Deck Guns (Giant Cannon) shell Health by 5x so rounds survive PD better. Longer Weapon Range updated so it cannot restore PD to 1000 m.",
-  "archive": "modpack-2026-1.0.14.zip",
+  "version": "1.0.15",
+  "description": "Adds six Workshop ship-design collections to the pack: Stargate SGC/Wraith/Goa'uld/Asgard fleets, EuroSpace All-In-One-Bundle 2, and War Above All Heavens. Each is wrapped as a Standard Mod that registers its ships into the builtin ship library.",
+  "archive": "modpack-2026-1.0.15.zip",
   "parts": [
-    "modpack-2026-1.0.14.zip.000",
-    "modpack-2026-1.0.14.zip.001",
-    "modpack-2026-1.0.14.zip.002"
+    "modpack-2026-1.0.15.zip.000",
+    "modpack-2026-1.0.15.zip.001",
+    "modpack-2026-1.0.15.zip.002"
   ],
-  "files": "files-1.0.14.json",
+  "files": "files-1.0.15.json",
   "deltas": [
     {
-      "from": "1.0.13",
-      "archive": "delta-1.0.13-to-1.0.14.zip"
+      "from": "1.0.14",
+      "archive": "delta-1.0.14-to-1.0.15.zip"
     }
   ]
 }
